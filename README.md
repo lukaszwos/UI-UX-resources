@@ -2,7 +2,7 @@
 
 Just some links from UI/UX bootcamp. Feel free to contribute.
 
-![](https://miro.medium.com/max/1280/1*2FiWUrqBv-FN-pKm5k260Q.jpeg)
+![](https://miro.medium.com/max/1000/1*NSMBXmWuorexhazr0wN4dw.jpeg)
 
 ### [Design Principles](https://principles.design/)
 > An Open Source collection of Design Principles and methods
