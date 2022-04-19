@@ -1,5 +1,7 @@
 # UI/UX - resources
 
+Just some links from UI/UX bootcamp. Feel free to contribute.
+
 ### [Design Principles](https://principles.design/)
 > An Open Source collection of Design Principles and methods
 
