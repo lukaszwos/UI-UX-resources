@@ -7,7 +7,7 @@ Just some links from UI/UX bootcamp. Feel free to contribute.
 ### [Design Principles](https://principles.design/)
 > An Open Source collection of Design Principles and methods
 
-### [Heurio - UX Check & Visual Feedback Tool](https://chrome.google.com/webstore/detail/heurio-ux-check-visual-fe/pjdbofhiijhapnmpgilkeammkanglfdj?hl=en)
+### [Heurio - UX Check & Visual Feedback Tool](https://miro.medium.com/max/1000/1*NSMBXmWuorexhazr0wN4dw.jpeg)
 > Perfect for UX check, design & development review, heuristic evaluation, user testing and more.
 
 ### [Maze | User Research & Testing Platform](https://app.maze.co/maze-preview/mazes/39151520/)
