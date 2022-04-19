@@ -2,7 +2,7 @@
 
 Just some links from UI/UX bootcamp. Feel free to contribute.
 
-![leadimg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoletivoux.com%2Fvoce-esta-aprendendo-ux-errado-70206ea9b9f7&psig=AOvVaw1UmI_mKo3ckANYNrf5q4n1&ust=1650444484072000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjP-5Pfn_cCFQAAAAAdAAAAABAL)
+![](https://miro.medium.com/max/1280/1*2FiWUrqBv-FN-pKm5k260Q.jpeg)
 
 ### [Design Principles](https://principles.design/)
 > An Open Source collection of Design Principles and methods
