@@ -68,3 +68,9 @@ Just some links from UI/UX bootcamp. Feel free to contribute.
 ### [Audi Design System](https://www.audi.com/ci/en/renewed-brand.html)
 > The Audi CI Portal is a direct, uncomplicated way for the creative handling of our brand. It offers many examples that inspire and convey the essentials – and it’s structured in such a way that you can get started right away. A living styleguide that is being extended continuously across all touch-points.
 
+### [Remix Icons](https://remixicon.com/)
+
+### [Noun Project](https://thenounproject.com)
+
+### [Font Awesome](https://fontawesome.com)
+
