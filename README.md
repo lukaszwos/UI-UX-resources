@@ -74,3 +74,5 @@ Just some links from UI/UX bootcamp. Feel free to contribute.
 
 ### [Font Awesome](https://fontawesome.com)
 
+### [Bravo](https://www.bravostudio.app/bravo-studio-for-figma)
+> Turn your beautiful Figma files into powerful apps
