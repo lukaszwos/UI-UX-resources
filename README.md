@@ -32,7 +32,7 @@ Just some links from UI/UX bootcamp. Feel free to contribute.
 >Free typography for your next design project (Google Fonts, Fontshare, Fontesk, Font Squirrel, and more) - Fontpair
 
 ### [Fontjoy - Generate font pairings in one click](https://fontjoy.com/)
-?Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
+>Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
 
 ### [Responsive Logos](http://responsivelogos.co.uk/)
 >An exploration in scalable logo design
@@ -76,3 +76,6 @@ Just some links from UI/UX bootcamp. Feel free to contribute.
 
 ### [Bravo](https://www.bravostudio.app/bravo-studio-for-figma)
 > Turn your beautiful Figma files into powerful apps
+
+### [Apple - Human Interface Guidelines](https://developer.apple.com/design/)
+> Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
